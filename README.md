@@ -1,7 +1,7 @@
 # Kumir2 in docker
 
 ## Commands
-- `kumir-bc` to compile
+- `kumir2-bc` to compile
 - `kumir2-run` to run
 
 ## Tips
